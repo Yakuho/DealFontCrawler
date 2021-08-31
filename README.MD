@@ -1,7 +1,11 @@
 # DealFontCrawler
 解决字体反爬的简单通用模型
 
-ps: 由于操作问题，最新版本的代码不能直接clone， 请在release对应下载zip压缩包文件
+**ps: 如今鲁棒性问题得到初步解决，最新的模型请移步至[ReadItEasy](https://github.com/Yakuho/ReadItEasy)**!!!
+
+**ps: 如今鲁棒性问题得到初步解决，最新的模型请移步至[ReadItEasy](https://github.com/Yakuho/ReadItEasy)**!!!
+
+**ps: 如今鲁棒性问题得到初步解决，最新的模型请移步至[ReadItEasy](https://github.com/Yakuho/ReadItEasy)**!!!
 
 
 ### 功能
